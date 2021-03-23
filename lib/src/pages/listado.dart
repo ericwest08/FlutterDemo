@@ -21,7 +21,7 @@ class ListadoPage extends StatefulWidget {
     },
     {
       'nombre': 'Tarea tres',
-      'descripcion': 'Descripción de la tarea res',
+      'descripcion': 'Descripción de la tarea tres',
       'estado': true
     }
   ];
